@@ -5,7 +5,6 @@ C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\bin\Debug\net5.0\Catalog.
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\bin\Debug\net5.0\Catalog.runtimeconfig.json
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\bin\Debug\net5.0\Catalog.runtimeconfig.dev.json
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\bin\Debug\net5.0\Catalog.dll
-C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\bin\Debug\net5.0\ref\Catalog.dll
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\bin\Debug\net5.0\Catalog.pdb
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -18,7 +17,6 @@ C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\obj\Debug\net5.0\Catalog.
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.Manifest.cache
-C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.xml
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\obj\Debug\net5.0\scopedcss\bundle\Catalog.styles.css
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\obj\Debug\net5.0\Catalog.RazorTargetAssemblyInfo.cache
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\obj\Debug\net5.0\Catalog.csproj.CopyComplete
@@ -27,3 +25,21 @@ C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\obj\Debug\net5.0\ref\Cata
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\obj\Debug\net5.0\Catalog.pdb
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
 C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\obj\Debug\net5.0\Catalog.csproj.AssemblyReference.cache
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\Catalog.StaticWebAssets.xml
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\DnsClient.dll
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\owner\Documents\KennyProjects\Catalog\catalog\obj\Debug\net5.0\refint\Catalog.dll

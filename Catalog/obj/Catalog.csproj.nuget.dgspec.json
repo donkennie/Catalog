@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\owner\\Documents\\KennyProjects\\Catalog\\Catalog\\Catalog.csproj": {}
+    "C:\\Users\\owner\\Documents\\KennyProjects\\Catalog\\catalog\\Catalog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\owner\\Documents\\KennyProjects\\Catalog\\Catalog\\Catalog.csproj": {
+    "C:\\Users\\owner\\Documents\\KennyProjects\\Catalog\\catalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\owner\\Documents\\KennyProjects\\Catalog\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "C:\\Users\\owner\\Documents\\KennyProjects\\Catalog\\catalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "C:\\Users\\owner\\Documents\\KennyProjects\\Catalog\\Catalog\\Catalog.csproj",
+        "projectPath": "C:\\Users\\owner\\Documents\\KennyProjects\\Catalog\\catalog\\Catalog.csproj",
         "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\owner\\Documents\\KennyProjects\\Catalog\\Catalog\\obj\\",
+        "outputPath": "C:\\Users\\owner\\Documents\\KennyProjects\\Catalog\\catalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,6 +59,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -67,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
