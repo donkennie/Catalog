@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d/GGAOOQ3QBzYgy3vHIwP8291UR5JjsvVILZhaDVQByZFZSRN02yNqfJLzyCtns9EsOmQQeFMFHIfrIvl9H9nw==",
+  "dgSpecHash": "l96cPJQal3zuj3AtI2DiKkVeJkESvEstRp+ueElfL0iH8fpapRSBFB/pjw/Ys4fcvJDIdbPkMxATKQyOfcFgfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\owner\\Documents\\KennyProjects\\Catalog\\catalog\\Catalog.csproj",
+  "projectFilePath": "C:\\Users\\owner\\Documents\\KennyProjects\\Catalog\\Catalog\\Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\owner\\.nuget\\packages\\dnsclient\\1.6.0\\dnsclient.1.6.0.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
@@ -21,8 +21,7 @@
     "C:\\Users\\owner\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
     "C:\\Users\\owner\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
-    "C:\\Users\\owner\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\owner\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\owner\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

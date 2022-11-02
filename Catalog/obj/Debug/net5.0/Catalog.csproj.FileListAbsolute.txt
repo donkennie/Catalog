@@ -41,4 +41,5 @@ C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\runtimes
 C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\owner\Documents\KennyProjects\Catalog\catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
-C:\Users\owner\Documents\KennyProjects\Catalog\catalog\obj\Debug\net5.0\refint\Catalog.dll
+C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\bin\Debug\net5.0\ref\Catalog.dll
+C:\Users\owner\Documents\KennyProjects\Catalog\Catalog\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.xml
